@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack-config.js"
+  },
+  "devDependencies": {
+    "webpack": "^1.8.4",
+    "webpack-dev-server": "^1.11.0"
+  }
+}
