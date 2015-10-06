@@ -1,7 +1,7 @@
-console.log('hello john doe, this is cute');
+console.log('hello john doe');
 
 module.exports = {
     test : function(inp) {
-        return "whoa , this great, hello madam, " + inp;
+        return "this hello madam, " + inp;
     }
 }
